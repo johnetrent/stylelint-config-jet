@@ -1,0 +1,6 @@
+{
+  "extends": "eslint-config-jet",
+  "rules": {
+    "no-magic-numbers": 0
+  }
+}
